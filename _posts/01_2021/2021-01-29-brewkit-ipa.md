@@ -43,4 +43,11 @@ Drożdże długo rehydratowane, dodane do 100ml wody 21°C.
 
 ## Fermentacja
 
-Drożdże dodano 20:30 21.01.2021 do piwa w temperaturze ~17°C. Temperatura otoczenia 13°C.
+* 21.01.2021 - 20:30 - 0 dni
+  - 11.5° BLG
+  - Drożdże dodano do piwa w temperaturze ~17°C
+  - temperatura otoczenia 13°C
+* 24.01.2021 - 2.5 dnia
+  - przeniesione do temp. otoczenia 16°C
+* 06.02.2021 - 15 dni
+  - 2° BLG
