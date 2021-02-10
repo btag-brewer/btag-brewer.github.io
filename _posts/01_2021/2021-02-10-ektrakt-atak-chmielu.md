@@ -1,27 +1,29 @@
 ---
-title: &#35;1 IPA z brewkitu z chmieleniem
-date: 2021-01-29 22:00:00 +0200
-categories: [ale, IPA]
-tags: [ale, brewkit, ipa, amarillo, cascade, citra]
+title: &#35;2 AIPA z ekstraktu
+date: 2021-02-10 10:00:00 +0200
+categories: [ale, AIPA]
+tags: [ale, ekstrakt, aipa, amarillo, cascade, citra, simcoe]
 ---
 
-Pierwsze piwo, użyto brewkit. Wykorzystałem ekstrakt słodowy PALE ALE z własnym chmieleniem i drożdżami US-05.
+Druga warka, użyto ekstraktów. Wykorzystałem ekstrakt słodowy PALE ALE z chmielem z zestawu "BA Atak Chmielu" i drożdżami US-05.
 
-## Brewkit
+## Ekstrakty
 
-![brewkit](/assets/posts/01_2021/01_brewkit.jpg){: width="400"}
+![suchy](/assets/posts/02_2021/ekstrakt1.jpg){: width="400"}
 
-## Ekstrakt
+![ekstrakt](/assets/posts/02_2021/ekstrakt2.jpg){: width="400"}
 
-![ekstrakt](/assets/posts/01_2021/01_ekstrakt.jpg){: width="400"}
+## Słody
 
-Ektrakt jest chmielony, ale postanowiłem użyć dodatkowe chmielenie.
+Dodane w temperaturze koło 50°C , potem trzymane w temp. ok. 70°C przez 20 minut.
+
+![ekstrakt](/assets/posts/02_2021/slody.jpg){: width="400"}
 
 ## Chmielenie
 
 #### Na goryczkę
 
-- 10g CASCADE - 60'
+- 20g SIMCOE - 60'
 
 #### Na smak
 
