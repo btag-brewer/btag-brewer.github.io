@@ -61,3 +61,7 @@ Drożdże długo rehydratowane, dodane do 100ml wody 21°C.
   - 1L wody
   - 90g cukru
   - ok. 2.2 jednostki CO2
+
+## Butelkowanie
+
+10.02.2021
