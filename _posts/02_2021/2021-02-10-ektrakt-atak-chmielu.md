@@ -1,8 +1,8 @@
 ---
-title: B2 AIPA z ekstraktu
+title: B2 AIPA z ekstraktu - Atak Chmielu
 date: 2021-02-10 10:00:00 +0200
 categories: [ale, AIPA]
-tags: [ale, ekstrakt, aipa, amarillo, cascade, citra, simcoe]
+tags: [ale, ekstrakt, aipa, amarillo, citra, simcoe]
 ---
 
 Druga warka, użyto ekstraktów. Wykorzystałem ekstrakt słodowy PALE ALE z chmielem z zestawu "BA Atak Chmielu" i drożdżami US-05.
@@ -38,16 +38,16 @@ Dodane w temperaturze koło 50°C , potem trzymane w temp. ok. 70°C przez 20 mi
 
 ![drozdze](/assets/posts/01_2021/01_drozdze.jpg){: width="400"}
 
-<!-- Drożdże długo rehydratowane, dodane do 100ml wody 21°C.
+Drożdże rehydratowane, dodane do 120ml wody 17°C.
 
-![drozdze reh](/assets/posts/01_2021/01_drozdze_reh.jpg){: width="400"}
+![drozdze reh](/assets/posts/02_2021/01_drozdze_reh.jpg){: width="400"}
 
 
 ## Fermentacja
 
-* 21.01.2021 - 20:30 - 0 dni
-  - 11.5° BLG
-  - Drożdże dodano do piwa w temperaturze ~17°C
-  - temperatura otoczenia 13°C -->
+* 11.02.2021 - 17:00 - 0 dni
+  - 15.2° BLG
+  - Drożdże dodano do piwa w temperaturze 17°C
+  - temperatura otoczenia 17°C
 
 
