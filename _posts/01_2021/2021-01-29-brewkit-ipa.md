@@ -3,6 +3,8 @@ title: B1 IPA z brewkitu z chmieleniem
 date: 2021-01-29 22:00:00 +0200
 categories: [ale, IPA]
 tags: [ale, brewkit, ipa, amarillo, cascade, citra]
+image:
+  src: /assets/posts/01_2021/01_efekt.jpg
 ---
 
 Pierwsze piwo, użyto brewkit. Wykorzystałem ekstrakt słodowy PALE ALE z własnym chmieleniem i drożdżami US-05.
