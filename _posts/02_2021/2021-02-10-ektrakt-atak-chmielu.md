@@ -49,5 +49,25 @@ Drożdże rehydratowane, dodane do 120ml wody 17°C.
   - 15.2° BLG
   - Drożdże dodano do piwa w temperaturze 17°C
   - temperatura otoczenia 17°C
+* 26.02.2021 - 15 dni
+  - 40g SIMCOE
+  - 50g AMARILLO 
+  - 30g CITRA
 
+## Refermentacja
+
+* 07.03.2020 - 24 dni
+  - 3.8° BLG
+  - 0.8L wody
+  - 120g cukru
+  - ok. 2.5 jednostki CO2
+
+## Podsumowanie
+
+* butelkowane: 07.03.2021
+* BLG: 15.5° BLG
+* VOL: 5.85%
+* HOP RATE: 8.5 g/L
+
+<!-- ![piwko](/assets/posts/01_2021/01_efekt.jpg){: width="400"} -->
 

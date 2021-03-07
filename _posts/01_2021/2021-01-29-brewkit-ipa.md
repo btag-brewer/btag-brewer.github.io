@@ -62,6 +62,11 @@ Drożdże długo rehydratowane, dodane do 100ml wody 21°C.
   - 90g cukru
   - ok. 2.2 jednostki CO2
 
-## Butelkowanie
+## Podsumowanie
 
-10.02.2021
+* butelkowane: 10.02.2021
+* BLG: 11.5° BLG
+* VOL: 4.75%
+* HOP RATE: 4,74 g/L
+
+![piwko](/assets/posts/01_2021/01_efekt.jpg){: width="400"}
