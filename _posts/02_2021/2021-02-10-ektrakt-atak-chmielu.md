@@ -3,8 +3,6 @@ title: B2 AIPA z ekstraktu - Atak Chmielu
 date: 2021-02-10 10:00:00 +0200
 categories: [ale, AIPA]
 tags: [ale, ekstrakt, aipa, amarillo, citra, simcoe]
-image:
-  src: /assets/posts/02_2021/efekt.jpg
 ---
 
 Druga warka, użyto ekstraktów. Wykorzystałem ekstrakt słodowy PALE ALE z chmielem z zestawu "BA Atak Chmielu" i drożdżami US-05.
