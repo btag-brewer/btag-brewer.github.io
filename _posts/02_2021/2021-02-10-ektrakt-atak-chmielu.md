@@ -3,6 +3,8 @@ title: B2 AIPA z ekstraktu - Atak Chmielu
 date: 2021-02-10 10:00:00 +0200
 categories: [ale, AIPA]
 tags: [ale, ekstrakt, aipa, amarillo, citra, simcoe]
+image:
+  src: /assets/posts/02_2021/efekt.jpg
 ---
 
 Druga warka, użyto ekstraktów. Wykorzystałem ekstrakt słodowy PALE ALE z chmielem z zestawu "BA Atak Chmielu" i drożdżami US-05.
@@ -69,5 +71,5 @@ Drożdże rehydratowane, dodane do 120ml wody 17°C.
 * VOL: 5.85%
 * HOP RATE: 8.5 g/L
 
-<!-- ![piwko](/assets/posts/01_2021/01_efekt.jpg){: width="400"} -->
+![piwko](/assets/posts/02_2021/efekt.jpg){: width="400"}
 
