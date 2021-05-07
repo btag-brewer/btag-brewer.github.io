@@ -21,18 +21,12 @@ Dodane w temperaturze koło 50°C , potem trzymane w temp. ok. 70°C przez 20 mi
 
 ## Chmielenie
 
-#### Na goryczkę
-
-- 20g SIMCOE - 60'
-
-#### Na smak
-
-- 10g AMARILLO - 15'
-- 10g SIMCOE - 15'
-
-#### Na aromat
-
-- 10g CITRA 0'
+|  Chmiel  	| Ilość [g] 	| Czas do końca [min] 	|
+|:--------:	|:---------:	|:-------------------:	|
+|  SIMCOE  	|     20    	|          60         	|
+|  SIMCOE  	|     10    	|          15         	|
+| AMARILLO 	|     10    	|          15         	|
+|   CITRA  	|     10    	|          0          	|
 
 ## Drożdże
 
@@ -50,9 +44,11 @@ Drożdże rehydratowane, dodane do 120ml wody 17°C.
   - Drożdże dodano do piwa w temperaturze 17°C
   - temperatura otoczenia 17°C
 * 26.02.2021 - 15 dni
-  - 40g SIMCOE
-  - 50g AMARILLO 
-  - 30g CITRA
+  |  Chmiel  	| Ilość [g] 	|
+  |:--------:	|:---------:	|
+  |  SIMCOE  	|     40    	|
+  | AMARILLO 	|     50    	|
+  |   CITRA  	|     30    	|
 
 ## Refermentacja
 
@@ -64,10 +60,15 @@ Drożdże rehydratowane, dodane do 120ml wody 17°C.
 
 ## Podsumowanie
 
-* butelkowane: 07.03.2021
-* BLG: 15.5° BLG
-* VOL: 5.85%
-* HOP RATE: 8.5 g/L
+| Warka                          	| B2                	|
+|--------------------------------	|-------------------	|
+| Data butelkowania              	| 07.03.2021        	|
+| Ekstrakt początkowy            	| 15.5° BLG (1.062) 	|
+| VOL                            	| 6.18%             	|
+| HOP RATE                       	| 8.5 g/L           	|
+| Szacowana kaloryczność (500ml) 	| 290 kcal          	|
+
+## Degustacja
 
 ![piwko](/assets/posts/02_2021/efekt.jpg){: width="400"}
 
