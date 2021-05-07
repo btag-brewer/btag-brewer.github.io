@@ -9,11 +9,11 @@ Pierwsze piwo, użyto brewkit. Wykorzystałem ekstrakt słodowy PALE ALE z włas
 
 ## Brewkit
 
-![brewkit](/assets/posts/01_2021/01_brewkit.jpg){: width="400"}
+![brewkit](/assets/posts/01-2021/01-brewkit.jpg){: width="400"}
 
 ## Ekstrakt
 
-![ekstrakt](/assets/posts/01_2021/01_ekstrakt.jpg){: width="400"}
+![ekstrakt](/assets/posts/01-2021/01-ekstrakt.jpg){: width="400"}
 
 Ektrakt jest chmielony, ale postanowiłem użyć dodatkowe chmielenie.
 
@@ -28,11 +28,11 @@ Ektrakt jest chmielony, ale postanowiłem użyć dodatkowe chmielenie.
 
 ## Drożdże
 
-![drozdze](/assets/posts/01_2021/01_drozdze.jpg){: width="400"}
+![drozdze](/assets/posts/01-2021/01-drozdze.jpg){: width="400"}
 
 Drożdże długo rehydratowane, dodane do 100ml wody 21°C.
 
-![drozdze reh](/assets/posts/01_2021/01_drozdze_reh.jpg){: width="400"}
+![drozdze reh](/assets/posts/01-2021/01-drozdze-reh.jpg){: width="400"}
 
 
 ## Fermentacja
@@ -68,4 +68,4 @@ Drożdże długo rehydratowane, dodane do 100ml wody 21°C.
 
 ## Degustacja
 
-![piwko](/assets/posts/01_2021/01_efekt.jpg){: width="400"}
+![piwko](/assets/posts/01-2021/01-efekt.jpg){: width="400"}

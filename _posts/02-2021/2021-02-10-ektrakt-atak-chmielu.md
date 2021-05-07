@@ -9,15 +9,15 @@ Druga warka, użyto ekstraktów. Wykorzystałem ekstrakt słodowy PALE ALE z chm
 
 ## Ekstrakty
 
-![suchy](/assets/posts/02_2021/ekstrakt1.jpg){: width="400"}
+![suchy](/assets/posts/02-2021/ekstrakt1.jpg){: width="400"}
 
-![ekstrakt](/assets/posts/02_2021/ekstrakt2.jpg){: width="400"}
+![ekstrakt](/assets/posts/02-2021/ekstrakt2.jpg){: width="400"}
 
 ## Słody
 
 Dodane w temperaturze koło 50°C , potem trzymane w temp. ok. 70°C przez 20 minut.
 
-![ekstrakt](/assets/posts/02_2021/slody.jpg){: width="400"}
+![ekstrakt](/assets/posts/02-2021/slody.jpg){: width="400"}
 
 ## Chmielenie
 
@@ -34,7 +34,7 @@ Dodane w temperaturze koło 50°C , potem trzymane w temp. ok. 70°C przez 20 mi
 
 Drożdże rehydratowane, dodane do 120ml wody 17°C.
 
-![drozdze reh](/assets/posts/02_2021/01_drozdze_reh.jpg){: width="400"}
+![drozdze reh](/assets/posts/02-2021/01-drozdze-reh.jpg){: width="400"}
 
 
 ## Fermentacja
@@ -71,5 +71,5 @@ Drożdże rehydratowane, dodane do 120ml wody 17°C.
 
 ## Degustacja
 
-![piwko](/assets/posts/02_2021/efekt.jpg){: width="400"}
+![piwko](/assets/posts/02-2021/efekt.jpg){: width="400"}
 
