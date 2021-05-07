@@ -11,11 +11,19 @@ Pierwsze piwo, użyto brewkit. Wykorzystałem ekstrakt słodowy PALE ALE z włas
 
 ![brewkit](/assets/posts/01-2021/01-brewkit.jpg){: width="400"}
 
+|  Brewkit  	| Ilość [kg] 	|
+|:--------:	|:---------: |
+| BA brew-kit PLUS  	|     1.2    	|  
+
 ## Ekstrakt
 
 ![ekstrakt](/assets/posts/01-2021/01-ekstrakt.jpg){: width="400"}
 
 Ektrakt jest chmielony, ale postanowiłem użyć dodatkowe chmielenie.
+
+|  Ekstrakt  	| Ilość [kg] 	|
+|:--------:	|:---------: |
+|  ekstrakt słodowy Pale Ale w syropie  	|     1.7    	| 
 
 ## Chmielenie
 
@@ -69,3 +77,12 @@ Drożdże długo rehydratowane, dodane do 100ml wody 21°C.
 ## Degustacja
 
 ![piwko](/assets/posts/01-2021/01-efekt.jpg){: width="400"}
+
+| Cecha            	| Opis 	|
+|------------------	|------	|
+| Aromat           	|      	|
+| Wygląd           	|      	|
+| Smak             	|      	|
+| Goryczka         	|      	|
+| Uczucie w ustach 	|      	|
+| Ogólne wrażenie  	|      	|

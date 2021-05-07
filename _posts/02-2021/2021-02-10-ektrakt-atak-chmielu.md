@@ -13,11 +13,22 @@ Druga warka, użyto ekstraktów. Wykorzystałem ekstrakt słodowy PALE ALE z chm
 
 ![ekstrakt](/assets/posts/02-2021/ekstrakt2.jpg){: width="400"}
 
+|  Ekstrakt  	| Ilość [kg] 	|
+|:--------:	|:---------: |
+|  ekstrakt słodowy Pale Ale w syropie  	|     3.4    	| 
+|  ekstrakt słodowy jasny suchy  	|     ?    	| 
+
 ## Słody
 
 Dodane w temperaturze koło 50°C , potem trzymane w temp. ok. 70°C przez 20 minut.
 
 ![ekstrakt](/assets/posts/02-2021/slody.jpg){: width="400"}
+
+|  Słod  	| Ilość [kg] 	|
+|:--------:	|:---------: |
+|  słód Carapils® śrutowany  	|     0.2    	| 
+|  słód Carared® śrutowany  	|     0.2    	| 
+|  słód Melanoidynowy® śrutowany  	|     0.2    	| 
 
 ## Chmielenie
 
@@ -73,3 +84,11 @@ Drożdże rehydratowane, dodane do 120ml wody 17°C.
 
 ![piwko](/assets/posts/02-2021/efekt.jpg){: width="400"}
 
+| Cecha            	| Opis 	|
+|------------------	|------	|
+| Aromat           	|      	|
+| Wygląd           	|      	|
+| Smak             	|      	|
+| Goryczka         	|      	|
+| Uczucie w ustach 	|      	|
+| Ogólne wrażenie  	|      	|
