@@ -19,18 +19,12 @@ Ektrakt jest chmielony, ale postanowiłem użyć dodatkowe chmielenie.
 
 ## Chmielenie
 
-#### Na goryczkę
-
-- 10g CASCADE - 60'
-
-#### Na smak
-
-- 20g AMARILLO - 5'
-- 20g CITRA - 5'
-
-#### Na aromat
-
-- 10g CITRA 0'
+|  Chmiel  	| Ilość [g] 	| Czas do końca [min] 	|
+|:--------:	|:---------:	|:-------------------:	|
+|  CASCADE  	|     10    	|          60         	|
+|  AMARILLO  	|     20    	|          5         	|
+| CITRA 	|     20    	|          5         	|
+|   CITRA  	|     10    	|          0          	|
 
 ## Drożdże
 
@@ -64,9 +58,14 @@ Drożdże długo rehydratowane, dodane do 100ml wody 21°C.
 
 ## Podsumowanie
 
-* butelkowane: 10.02.2021
-* BLG: 11.5° BLG
-* VOL: 4.75%
-* HOP RATE: 4,74 g/L
+| Warka                          	| B1                	|
+|--------------------------------	|-------------------	|
+| Data butelkowania              	| 10.02.2021        	|
+| Ekstrakt początkowy            	| 11.5° BLG (1.046) 	|
+| VOL                            	| 5.05%             	|
+| HOP RATE                       	| 4.74 g/L           	|
+| Szacowana kaloryczność (500ml) 	| 212 kcal          	|
+
+## Degustacja
 
 ![piwko](/assets/posts/01_2021/01_efekt.jpg){: width="400"}
