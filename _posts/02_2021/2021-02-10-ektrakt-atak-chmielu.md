@@ -44,6 +44,7 @@ Drożdże rehydratowane, dodane do 120ml wody 17°C.
   - Drożdże dodano do piwa w temperaturze 17°C
   - temperatura otoczenia 17°C
 * 26.02.2021 - 15 dni
+* 
   |  Chmiel  	| Ilość [g] 	|
   |:--------:	|:---------:	|
   |  SIMCOE  	|     40    	|
