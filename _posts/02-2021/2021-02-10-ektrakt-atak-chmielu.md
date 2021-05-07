@@ -30,7 +30,7 @@ Dodane w temperaturze koło 50°C , potem trzymane w temp. ok. 70°C przez 20 mi
 
 ## Drożdże
 
-![drozdze](/assets/posts/01_2021/01_drozdze.jpg){: width="400"}
+![drozdze](/assets/posts/01-2021/01-drozdze.jpg){: width="400"}
 
 Drożdże rehydratowane, dodane do 120ml wody 17°C.
 
