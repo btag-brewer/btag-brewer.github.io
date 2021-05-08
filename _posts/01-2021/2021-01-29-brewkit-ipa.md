@@ -81,8 +81,9 @@ Drożdże długo rehydratowane, dodane do 100ml wody 21°C.
 | Cecha            	| Opis 	|
 |------------------	|------	|
 | Aromat           	| chmielowy, cytrusowy	|
-| Wygląd           	| klarowne, mętne na dnie, barwa bursztynowa, pianka niska i drobna	|
+| Wygląd           	| klarowne, mętne na dnie, barwa bursztynowa (czerwonawe), pianka niska i drobna	|
 | Smak             	| płaskie	|
 | Goryczka         	| lekka, zaciągająca |
 | Uczucie w ustach 	| wodniste, nasycenie przyjemne |
 | Ogólne wrażenie  	| 2/5	|
+| Uwagi             | słabo filtrowane: chmieliny i płatki drożdży |

@@ -86,9 +86,10 @@ Drożdże rehydratowane, dodane do 120ml wody 17°C.
 
 | Cecha            	| Opis 	|
 |------------------	|------	|
-| Aromat           	|      	|
-| Wygląd           	|      	|
-| Smak             	|      	|
-| Goryczka         	|      	|
-| Uczucie w ustach 	|      	|
-| Ogólne wrażenie  	|      	|
+| Aromat           	| białe owoce	|
+| Wygląd           	| bursztynowe, piana oblepiająca, średnio obfita	|
+| Smak             	| pełne, słodkawe, owocowe	|
+| Goryczka         	| delikatna, ściągająca	|
+| Uczucie w ustach 	| lekko kujące nasycenie	|
+| Ogólne wrażenie  	| 3/5	|
+| Uwagi             | słabo filtrowane: chmieliny, gushing |
