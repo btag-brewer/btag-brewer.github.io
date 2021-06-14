@@ -1,5 +1,5 @@
 ---
-title: B2 AIPA z ekstraktu - Atak Chmielu
+title: [B2] AIPA 15.5° BLG - z ekstraktu a'la Atak Chmielu
 date: 2021-02-10 10:00:00 +0200
 categories: [ale, AIPA]
 tags: [ale, ekstrakt, aipa, amarillo, citra, simcoe]
