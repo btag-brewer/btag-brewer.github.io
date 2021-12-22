@@ -36,39 +36,40 @@ Drożdże S-33 rehydratowane, dodane do 120ml wody 25°C.
 
 ## Fermentacja
 
-* 11.02.2021 - 17:00 - 0 dni
+* 0 dni
   - 1.032 OG
   - temp ok. 20 stopni
 
+* ogólnie fermentacja stanęła gdzieś w połowie, możliwe przyczyny:
+   - zbyt krótkie zacieranie
+   - słaba kontrola temperatury
+   - skończyło się na 1.020
+   - posmak i zapach bardzo drożdżowy
 
-<!-- ## Refermentacja
+## Refermentacja
 
-* 07.03.2020 - 24 dni
-  - 3.8° BLG
-  - 0.8L wody
-  - 120g cukru
-  - ok. 2.5 jednostki CO2
+* ze względu na wysoki poziom OG, nic nie dodawałem do butelkowania 
 
 ## Podsumowanie
 
-| Warka                          	| B2                	|
+| Warka                          	| B3                	|
 |--------------------------------	|-------------------	|
-| Data butelkowania              	| 07.03.2021        	|
-| Ekstrakt początkowy            	| 15.5° BLG (1.062) 	|
-| VOL                            	| 6.18%             	|
-| HOP RATE                       	| 8.5 g/L           	|
-| Szacowana kaloryczność (500ml) 	| 290 kcal          	|
+| Data butelkowania              	| koniec września    	|
+| Ekstrakt początkowy            	| 8.0° BLG (1.032) 	|
+| VOL                            	| 1.58%             	|
+| HOP RATE                       	| 2.5 g/L           	|
+| Szacowana kaloryczność (500ml) 	| 155 kcal          	|
 
 ## Degustacja
 
-![piwko](/assets/posts/02-2021/efekt.jpg){: width="400"}
+![piwko](/assets/posts/09-2021/efekt.webp){: width="400"}
 
 | Cecha            	| Opis 	|
 |------------------	|------	|
-| Aromat           	| białe owoce	|
-| Wygląd           	| bursztynowe, piana oblepiająca, średnio obfita	|
-| Smak             	| pełne, słodkawe, owocowe	|
-| Goryczka         	| delikatna, ściągająca	|
-| Uczucie w ustach 	| lekko kujące nasycenie	|
-| Ogólne wrażenie  	| 3/5	|
-| Uwagi             | słabo filtrowane: chmieliny, gushing | -->
+| Aromat           	| drożdże, wędzonka	|
+| Wygląd           	| słomkowe, brak piany	|
+| Smak             	| wodniste, posmak wędzonki	|
+| Goryczka         	| brak	|
+| Uczucie w ustach 	| jest ok	|
+| Ogólne wrażenie  	| 1.5/5	|
+| Uwagi             | filtrowanie się udało, zacieranie nie, z czasem się ułożyło | -->
