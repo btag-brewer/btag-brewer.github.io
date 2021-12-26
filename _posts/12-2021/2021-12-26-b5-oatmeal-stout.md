@@ -1,27 +1,30 @@
 ---
-title: B4 - Vermont IPA 6.0° BLG - może będzie hazy?
-date: 2021-12-25 10:00:00 +0200
-categories: [ale, vermount, ipa]
-tags: [ale, ze słodu, vermount, ipa, ]
+title: B5 - Oatmeal Stout 5.4° BLG - prażona kawka na leżakowaniu
+date: 2021-12-26 10:00:00 +0200
+categories: [ale, stout]
+tags: [ale, ze słodu, stout, oatmeal ]
 ---
 
-Tym razem owsiana IPKa, mam nadzieję, że chmiel na zimno dobrze wejdzie. Wydaje się, że zacieranie bardzo dobrze poszło.
+Tym razem owsiany stout, mam nadzieję, że kawka z Kahawa na zimno dobrze wejdzie. 
 
 ## Woda
 
-Do zacierania wykorzystałem 20 l wody, do obniżenia pH użyłem 6ml kwasu fosforowego 85% - docelowo ~5.35.
+Do zacierania wykorzystałem 18.5 l wody, nie obniżałem poziomu pH zgodnie z wylizeniami brewfather.
 
 ## Słody
 
-Dodane w temperaturze koło 70 stopni, i spadek do 68. Gotowanie 75 minut, temp. 68 +-2 stopnie. Potem podgrzanie do 75 +-1 stopień i podtrzymywanie przez 15 minut. pH wody do wysładzania zbijana kwasem do fosforowym 3.5 ml na 12.8 L. Po zatarciu 24l, 0.067 OG. Test skrobiowy negatywny.
+Dodane w temperaturze koło 70 stopni, i spadek do 68. Gotowanie 60 minut, temp. 68 +-1.5 stopnia. Potem podgrzanie do 78 +-1 stopień i podtrzymywanie przez 15 minut. pH wody do wysładzania zbijana kwasem do fosforowym 3.2 ml na 13 L. 
+<!-- Po zatarciu 24l, 0.067 OG. Test skrobiowy negatywny. -->
 
 |  Słod  	| Ilość [kg] 	|
 |:--------:	|:---------: |
-|  słód pale ale  	|     5    	| 
-|  słód pszeniczny prażony	|     0.65    	| 
-|  płatki owsiane błyskawiczne  	|     0.8    	| 
+|  słód pale ale  	|     3    	| 
+|  słód jęczmienny prażony	|     1.5    	| 
+|  płatki owsiane błyskawiczne  	|     1.0    	| 
+|  Caraaroma  	|     0.250    	| 
+|  Chocolate Wheat  	|     0.250    	| 
 
-## Chmielenie
+<!-- ## Chmielenie
 
 |  Chmiel  	| Ilość [g] 	| Czas do końca [min] 	|
 |:--------:	|:---------:	|:-------------------:	|
@@ -36,8 +39,8 @@ Drożdże S-04 rehydratowane, dodane do 120ml wody 24°C.
 ## Fermentacja
 
 * 0 dni
-  - 1.069 OG
-  - temp ok. 19.5 stopni
+  - 1.067 OG
+  - temp ok. 20 stopni -->
 
 
 <!-- ## Refermentacja
