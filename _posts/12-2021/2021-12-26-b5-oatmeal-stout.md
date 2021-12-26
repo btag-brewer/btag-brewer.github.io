@@ -1,5 +1,5 @@
 ---
-title: B5 - Oatmeal Stout 5.4° BLG - prażona kawka na leżakowaniu
+title: B5 - Oatmeal Stout 14.0° BLG - prażona kawka na leżakowaniu
 date: 2021-12-26 10:00:00 +0200
 categories: [ale, stout]
 tags: [ale, ze słodu, stout, oatmeal ]
@@ -14,7 +14,9 @@ Do zacierania wykorzystałem 18.5 l wody, nie obniżałem poziomu pH zgodnie z w
 ## Słody
 
 Dodane w temperaturze koło 70 stopni, i spadek do 68. Gotowanie 60 minut, temp. 68 +-1.5 stopnia. Potem podgrzanie do 78 +-1 stopień i podtrzymywanie przez 15 minut. pH wody do wysładzania zbijana kwasem do fosforowym 3.2 ml na 13 L. 
-<!-- Po zatarciu 24l, 0.067 OG. Test skrobiowy negatywny. -->
+Po zatarciu 23.5l, 0.058 OG. Test skrobiowy negatywny.
+
+![jodyna](/assets/posts/12-2021/jodyna.jpg){: width="400"}
 
 |  Słod  	| Ilość [kg] 	|
 |:--------:	|:---------: |
@@ -24,11 +26,16 @@ Dodane w temperaturze koło 70 stopni, i spadek do 68. Gotowanie 60 minut, temp.
 |  Caraaroma  	|     0.250    	| 
 |  Chocolate Wheat  	|     0.250    	| 
 
-<!-- ## Chmielenie
+![slod](/assets/posts/12-2021/slod.jpg){: width="400"}
+
+## Chmielenie
 
 |  Chmiel  	| Ilość [g] 	| Czas do końca [min] 	|
 |:--------:	|:---------:	|:-------------------:	|
-|  EL DORADO  	|     40    	|          30         	|
+|  Fuggle  	|     40    	|          60         	|
+|  Fuggle  	|     10    	|          10         	|
+
+Dodałem 0.5 tabletki whirlfloc na 10 minut przed końcem.
 
 
 ## Drożdże
@@ -39,8 +46,8 @@ Drożdże S-04 rehydratowane, dodane do 120ml wody 24°C.
 ## Fermentacja
 
 * 0 dni
-  - 1.067 OG
-  - temp ok. 20 stopni -->
+  - 1.057 OG
+  - temp ok. 19.5 stopni
 
 
 <!-- ## Refermentacja
