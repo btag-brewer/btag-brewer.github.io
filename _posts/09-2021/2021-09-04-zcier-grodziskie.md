@@ -1,5 +1,5 @@
 ---
-title: B3 - Grodziskie ° BLG - pierwsze zacieranie
+title: B3 - Grodziskie 8.0° BLG - pierwsze zacieranie
 date: 2021-09-04 10:00:00 +0200
 categories: [ale, grodziskie]
 tags: [ale, ze słodu, grodziskie, lomik]
