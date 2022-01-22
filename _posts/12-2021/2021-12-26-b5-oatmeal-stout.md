@@ -66,8 +66,8 @@ Drożdże S-04 rehydratowane, dodane do 120ml wody 24°C.
 | HOP RATE                       	| -           	|
 | Szacowana kaloryczność (500ml) 	| 272 kcal          	|
 
-<!-- ## Podsumowanie
-## Degustacja
+
+<!-- ## Degustacja
 
 ![piwko](/assets/posts/09-2021/efekt.webp){: width="400"}
 
@@ -79,4 +79,4 @@ Drożdże S-04 rehydratowane, dodane do 120ml wody 24°C.
 | Goryczka         	| brak	|
 | Uczucie w ustach 	| jest ok	|
 | Ogólne wrażenie  	| 1.5/5	|
-| Uwagi             | filtrowanie się udało, zacieranie nie, z czasem się ułożyło | -->
+| Uwagi             | filtrowanie się udało, zacieranie nie, z czasem się ułożyło |  -->
