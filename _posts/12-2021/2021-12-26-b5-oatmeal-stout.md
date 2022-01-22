@@ -48,22 +48,25 @@ Drożdże S-04 rehydratowane, dodane do 120ml wody 24°C.
 * 0 dni
   - 1.057 OG
   - temp ok. 19.5 stopni
+* 18 dni
+  * kawa:
+    * 100 g 
+    * wygrzana w piekarniku 120°C przez 10 minut
+  ![slod](/assets/posts/12-2021/kawa.jpg){: width="400"}
+* 22 dni
+  * 1.017 FG
 
+## Podsumowanie
 
-<!-- ## Refermentacja
-
-* ze względu na wysoki poziom OG, nic nie dodawałem do butelkowania  -->
+| Warka                          	| B5                	|
+|--------------------------------	|-------------------	|
+| Data butelkowania              	| 22.01.2022    	|
+| Ekstrakt początkowy            	| 14.0° BLG (1.057) 	|
+| VOL                            	| 4.46%             	|
+| HOP RATE                       	| -           	|
+| Szacowana kaloryczność (500ml) 	| 272 kcal          	|
 
 <!-- ## Podsumowanie
-
-| Warka                          	| B3                	|
-|--------------------------------	|-------------------	|
-| Data butelkowania              	| koniec września    	|
-| Ekstrakt początkowy            	| 8.0° BLG (1.032) 	|
-| VOL                            	| 1.58%             	|
-| HOP RATE                       	| 2.5 g/L           	|
-| Szacowana kaloryczność (500ml) 	| 155 kcal          	|
-
 ## Degustacja
 
 ![piwko](/assets/posts/09-2021/efekt.webp){: width="400"}
