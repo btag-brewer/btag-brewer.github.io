@@ -52,9 +52,9 @@ Drożdże S-04 rehydratowane, dodane do 120ml wody 24°C.
   * kawa:
     * 100 g 
     * wygrzana w piekarniku 120°C przez 10 minut
-  ![slod](/assets/posts/12-2021/kawa.jpg){: width="400"}
+    * ![slod](/assets/posts/12-2021/kawa.jpg){: width="400"}
 * 22 dni
-  * 1.017 FG
+  * 1.023 FG
 
 ## Podsumowanie
 
