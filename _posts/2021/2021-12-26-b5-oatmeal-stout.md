@@ -67,16 +67,16 @@ Drożdże S-04 rehydratowane, dodane do 120ml wody 24°C.
 | Szacowana kaloryczność (500ml) 	| 272 kcal          	|
 
 
-<!-- ## Degustacja
+## Degustacja
 
-![piwko](/assets/posts/09-2021/efekt.webp){: width="400"}
+![piwko](/assets/posts/12-2021/b5.jpg){: width="400"}
 
 | Cecha            	| Opis 	|
 |------------------	|------	|
-| Aromat           	| drożdże, wędzonka	|
-| Wygląd           	| słomkowe, brak piany	|
-| Smak             	| wodniste, posmak wędzonki	|
+| Aromat           	| palone ziarno	|
+| Wygląd           	| ciemne, kawa, brak piany	|
+| Smak             	| pijalne, lekko kwaskawe, kawowo-palony posmak	|
 | Goryczka         	| brak	|
-| Uczucie w ustach 	| jest ok	|
-| Ogólne wrażenie  	| 1.5/5	|
-| Uwagi             | filtrowanie się udało, zacieranie nie, z czasem się ułożyło |  -->
+| Uczucie w ustach 	| wodniste, brak nasycenia	|
+| Ogólne wrażenie  	| 4.25/5	|
+| Uwagi             | super wyszło, zbyt małe nasycenie, kawa przeszła, ale mogłaby być bardziej wyczuwalna | 
