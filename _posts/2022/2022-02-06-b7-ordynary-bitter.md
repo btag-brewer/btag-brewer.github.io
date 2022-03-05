@@ -42,8 +42,8 @@ Drożdże Mangrove Jack's M44 US West Coast Yeast rehydratowane, dodane do 120ml
 ## Fermentacja
 
 * 0 dni
-  - 1.034 SG/8.6 brix
-  - temp ok. 18 stopni
+  - 1.037 SG
+  - temp ok. 19 stopni
 <!-- 
 * 10 dni:
   * rozlane na 10 L i 15 L
@@ -62,10 +62,10 @@ Drożdże Mangrove Jack's M44 US West Coast Yeast rehydratowane, dodane do 120ml
 | Ekstrakt początkowy            	| 8.5° BLG (1.034) 	|
 | VOL                            	| 3.0 %             	|
 | HOP RATE                       	| -           	|
-| Szacowana kaloryczność (500ml) 	| 160 kcal          	| --> -->
+| Szacowana kaloryczność (500ml) 	| 160 kcal          	|
 
 
-<!-- ## Degustacja
+## Degustacja
 
 ![piwko](/assets/posts/09-2021/efekt.webp){: width="400"}
 
