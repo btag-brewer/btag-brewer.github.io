@@ -44,6 +44,7 @@ Drożdże Mangrove Jack's M44 US West Coast Yeast rehydratowane, dodane do 120ml
 * 0 dni
   - 1.037 SG
   - temp ok. 19 stopni
+  - drożdże wydają się zachowywać inaczej niż poprzednie, bardzo intensywnie olepiły ścianki, szybko zaczęły pracować
 <!-- 
 * 10 dni:
   * rozlane na 10 L i 15 L
