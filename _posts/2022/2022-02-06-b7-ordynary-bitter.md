@@ -45,37 +45,21 @@ Drożdże Mangrove Jack's M44 US West Coast Yeast rehydratowane, dodane do 120ml
   - 1.037 SG
   - temp ok. 19 stopni
   - drożdże wydają się zachowywać inaczej niż poprzednie, bardzo intensywnie olepiły ścianki, szybko zaczęły pracować
-<!-- 
-* 10 dni:
-  * rozlane na 10 L i 15 L
-  * do 15 L dodano 1.5kg malin (100g/1L)
+
+* 27 dni - butelkowanie
+  * 5.1 brix
 
 ## Refermentacja
 
-* 91g cukru w 500 ml dla wersji bez owoców
-* 54g cukru w 500 ml dla wersji z owocami
+* 75g cukru w 500 ml
+* 1 łyżeczka wit. C
 
 ## Podsumowanie
 
 | Warka                          	| B4              	|
 |--------------------------------	|-------------------	|
-| Data butelkowania              	| 04.02.2022    	|
-| Ekstrakt początkowy            	| 8.5° BLG (1.034) 	|
-| VOL                            	| 3.0 %             	|
+| Data butelkowania              	| 03.04.2022    	|
+| Ekstrakt początkowy            	| 8.5° BLG (1.037) 	|
+| VOL                            	| 3.5 %             	|
 | HOP RATE                       	| -           	|
-| Szacowana kaloryczność (500ml) 	| 160 kcal          	|
-
-
-## Degustacja
-
-![piwko](/assets/posts/09-2021/efekt.webp){: width="400"}
-
-| Cecha            	| Opis 	|
-|------------------	|------	|
-| Aromat           	| drożdże, wędzonka	|
-| Wygląd           	| słomkowe, brak piany	|
-| Smak             	| wodniste, posmak wędzonki	|
-| Goryczka         	| brak	|
-| Uczucie w ustach 	| jest ok	|
-| Ogólne wrażenie  	| 1.5/5	|
-| Uwagi             | filtrowanie się udało, zacieranie nie, z czasem się ułożyło | -->
+| Szacowana kaloryczność (500ml) 	| 171 kcal          	|
