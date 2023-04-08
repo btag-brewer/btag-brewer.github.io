@@ -1,5 +1,5 @@
 ---
-title: B7 - Ordinary Bitter X° BLG - british breakfast beer
+title: B7 - Ordinary Bitter 10° BLG - british breakfast beer
 date: 2022-03-05 10:00:00 +0200
 categories: [ale, ordinary, bitter]
 tags: [ale, ze słodu, ordinary, bitter ]

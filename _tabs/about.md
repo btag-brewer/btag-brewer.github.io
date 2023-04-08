@@ -5,4 +5,4 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+> **Takie moje backlogi z robienia piwa. Na razie bez koszmarnych wpadek ;)** 
