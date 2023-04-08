@@ -1,5 +1,5 @@
 ---
-title: B8 - Hafeweizen 5.5° BLG
+title: B8 - Hafeweizen 5.5° BLG - wyszło złoto
 date: 2022-03-05 10:00:00 +0200
 categories: [ale, hafeweizen, pszeniczne]
 tags: [ale, ze słodu, pszeniczne ]
