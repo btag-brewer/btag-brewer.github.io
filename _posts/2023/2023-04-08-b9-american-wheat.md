@@ -1,5 +1,5 @@
 ---
-title: B9 - American Wheat X° BLG - 
+title: B9 - American Wheat X° BLG - lekka i chmielowa
 date: 2023-04-08 10:00:00 +0200
 categories: [ale, pszenica, amerykanska]
 tags: [ale, ze słodu, pszenica ]
@@ -32,8 +32,6 @@ Dodane w temperaturze koło 72 stopni, i spadek do 68. Gotowanie 67 minut, temp.
 |  Amarillo  	|     40    	|          0         	|
 |  Citra    	|     20    	|          0         	|
 
-
-
 1 Whirfloc na 5 minut. 
 
 ## Drożdże
@@ -47,29 +45,24 @@ Drożdże US-05 rehydratowane, dodane do 120ml wody 20°C.
   - 1.047 SG/11.8 brix
   - temp ok. 19 stopni
 
-<!-- 
-* 10 dni:
-  * rozlane na 10 L i 15 L
-  * do 15 L dodano 1.5kg malin (100g/1L)
-* 26 dni:
+* 15 dni:
   * gotowe do butelkowania
-  * w owocach brix 5.0, w czystym 5.1
-  * przy owocach potrzebne sitko przy przelewaniu, bo reduktor całkowicie się zapycha
+  * brix 5.1
 
 ## Refermentacja
 
-* 91g cukru w 500 ml dla wersji bez owoców
-* 54g cukru w 500 ml dla wersji z owocami (od ogólnego wyliczenia cukru, odjąłem cukier z malin)
+* 105g cukru w 500 ml
+* 1g witaminy C
 
 ## Podsumowanie
 
-| Warka                          	| B4              	|
+| Warka                          	| B9              	|
 |--------------------------------	|-------------------	|
-| Data butelkowania              	| 04.03.2022    	|
-| Ekstrakt początkowy            	| 8.5° BLG (1.034) 	|
-| VOL                            	| 3.0 %             	|
-| HOP RATE                       	| -           	|
-| Szacowana kaloryczność (500ml) 	| 160 kcal          	| -->
+| Data butelkowania              	| 23.04.2023    	|
+| Ekstrakt początkowy            	| 9.3° BLG (1.037) 	|
+| VOL                            	| 4.0 %             	|
+| HOP RATE                       	| 2.5 g/L           	|
+| Szacowana kaloryczność (500ml) 	| 170 kcal          	|
 
 
 <!-- ## Degustacja
